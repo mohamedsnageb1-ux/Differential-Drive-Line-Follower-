@@ -315,8 +315,16 @@ Reference kinematics/Robot_Kinematics_Guide.pdf for full theory
 ## Team
 
 **Black Rose Robotics Team**  
-IEEE Line Following Robot Competition
-
+Mohamed Sayed Nageb 
+Ziad Asem Sadky
+Ahmed Sayed Mahmoud
+Ahmed Mohamed Ahmed Abdel Haleem
+Fatma Khaled Mohamed Kamel
+Elham Fadl Ahmed Ahmed
+Rokaya Mansour Ibrahim Abdel Moneim
+Farah Abdel Wahab Mohamed Abdel Wahab
+Fatma Mahmoud Mohamed Sadek
+Omnia El-Sayed Youssef zalama
 ---
 
 ## License
