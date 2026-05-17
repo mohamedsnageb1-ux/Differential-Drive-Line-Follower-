@@ -321,14 +321,23 @@ Run Motion Study 1 for animation
 
 **Black Rose Robotics Team**  
 Mohamed Sayed Nageb
+
 Ziad Asem Sadky
-Ahmed Sayed Mahmoud, 
+
+Ahmed Sayed Mahmoud
+
 Ahmed Mohamed Ahmed Abdel Haleem
+
 Fatma Khaled Mohamed Kamel
+
 Elham Fadl Ahmed Ahmed
+
 Rokaya Mansour Ibrahim Abdel Moneim
+
 Farah Abdel Wahab Mohamed Abdel Wahab
+
 Fatma Mahmoud Mohamed Sadek
+
 Omnia El-Sayed Youssef zalama
 
 
